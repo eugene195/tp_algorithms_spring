@@ -1,2 +1,2 @@
-tp_algorithms_spring
+Interesting algorithms
 ====================
